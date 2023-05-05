@@ -1,1 +1,6 @@
-this is friday....this is friday....
+#include <stdio.h>
+void main()
+{
+
+printf("this is friday....this is friday...");
+}.
